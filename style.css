@@ -40,11 +40,11 @@ div.container .list-unstyled h4{font-size:16px;font-weight: 300;line-height: 16p
 div.container .list-unstyled li{list-style:none;}
 div.container .list-unstyled li a{color:#100000;}
 div.container .list-unstyled li a:hover{text-decoration:none;color:#02ACEE;}
-div.container .col-md-8 p.readmore{margin-top:35%;margin-left:80%;}
-div.container .col-md-4 img{margin-top:40px;}
-div.container .col-md-4 .table{margin-top:10px;background-color:#D1E3E6;}
-div.container .col-md-4 .table td{border-top: 0px;}
-div.container .col-md-4 .img-responsive{width: 100%; height: auto; }
+div.container .col-md-9 p.readmore{margin-top:35%;margin-left:80%;}
+div.container .col-md-3 img{margin-top:28px;}
+div.container .col-md-3 .table{margin-top:10px;background-color:#D1E3E6;}
+div.container .col-md-3 .table td{border-top: 0px;}
+div.container .col-md-3 .img-responsive{width: 100%; height: auto; }
 
 /**** article ****/
 div.article{padding-top: 180px;padding-bottom: 100px;}
@@ -59,7 +59,7 @@ div.article .col-md-3 h4 a{color:#100000;}
 div.article .col-md-3 h4 a:hover{text-decoration:none;color:#02ACEE;}
 div.article .col-md-3 p a{color:#100000;}
 div.article .col-md-3 p a:hover{text-decoration:none;color:#02ACEE;}
-div.article .col-md-3 img{margin-top:40px;}
+div.article .col-md-3 img{margin-top:28px;}
 div.article .col-md-3 .table{margin-top:10px;background-color:#D1E3E6;}
 div.article .col-md-3 .table td{border-top: 0px;}
 div.article .col-md-3 .img-responsive{width: 100%; height: auto; }
@@ -77,7 +77,7 @@ div.category .col-md-9 .glyphicon-eye-open{padding-top: 42px;color:#C0C0C0;}
 div.category .col-md-9 .glyphicon-thumbs-up{padding-top: 42px;color:#C0C0C0;}
 div.category .col-md-9 .list-unstyled .line{margin-left: 15px;padding-top: 150px;width:98%;height:0;border-bottom:#000000 1px dashed;}
 div.category .col-md-9 nav{text-align:center}
-div.category .col-md-3 img{margin-top:40px;}
+div.category .col-md-3 img{margin-top:28px;}
 div.category .col-md-3 .table{margin-top:10px;background-color:#D1E3E6;}
 div.category .col-md-3 .table td{border-top: 0px;}
 div.category .col-md-3 .img-responsive{width: 100%; height: auto; }
